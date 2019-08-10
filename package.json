@@ -2,10 +2,13 @@
   "name": "@stomprocket/blastoff-react",
   "version": "0.1.0",
   "description": "React components for BlastOff",
-  "main": "index.jsx",
-  "repository": "github.com/stomprocket/blastoff-react",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/stomprocket/blastoff-react"
+  },
   "author": "swissChili",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "private": false,
   "dependencies": {
     "@stomprocket/blastoff": "^1.0.5",
@@ -15,5 +18,8 @@
     "parcel-bundler": "^1.12.3",
     "pug": "^2.0.4",
     "react-dom": "^16.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
