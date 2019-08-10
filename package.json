@@ -1,5 +1,5 @@
 {
-  "name": "blastoff-react",
+  "name": "@stomprocket/blastoff-react",
   "version": "0.1.0",
   "description": "React components for BlastOff",
   "main": "index.jsx",
@@ -9,7 +9,6 @@
   "private": false,
   "dependencies": {
     "@stomprocket/blastoff": "^1.0.5",
-    "index.js": "^0.0.3",
     "react": "^16.9.0"
   },
   "devDependencies": {
